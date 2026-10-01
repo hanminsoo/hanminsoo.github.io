@@ -1,0 +1,26 @@
+title: Small Machine Notes
+description: >-
+  Fixes and field notes from running automation, AI coding agents and small
+  self-hosted services on one Mac. Every post is a problem I hit and verified on
+  real hardware.
+url: https://hanminsoo.github.io
+baseurl: ""
+author:
+  name: hanminsoo
+lang: en
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:title/
+minima:
+  social_links:
+    github: hanminsoo
+exclude:
+  - README.md
+  - drafts/
+  - topics.md
+  - CLAUDE.md
+  - tools/
+indexnow_key: 23ab8a305af8fad5938da3974ca28c45
