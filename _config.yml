@@ -5,8 +5,6 @@ description: >-
   real hardware.
 url: https://hanminsoo.github.io
 baseurl: ""
-author:
-  name: hanminsoo
 lang: en
 theme: minima
 plugins:
@@ -14,9 +12,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 permalink: /:year/:month/:title/
-minima:
-  social_links:
-    github: hanminsoo
 exclude:
   - README.md
   - drafts/
